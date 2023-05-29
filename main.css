@@ -366,7 +366,7 @@ input[type="search"]:focus {
   }
   .navbar {
     height: 6em;
-    width: 23.4em;
+    width: 24em;
   }
   .navbar > svg {
     margin: 2em 0 0 1em;

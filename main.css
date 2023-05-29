@@ -361,12 +361,12 @@ input[type="search"]:focus {
 /* screen les then 400 */
 @media screen and (min-width: 300px) and (max-width: 400px) {
   .floating-btn {
-    top: 50em;
+    top: 47em;
     left: 18em;
   }
   .navbar {
     height: 6em;
-    width: 30em;
+    width: 23.4em;
   }
   .navbar > svg {
     margin: 2em 0 0 1em;
@@ -493,10 +493,11 @@ input[type="search"]:focus {
     margin-top:  -2em;
     margin-left: 7.5em;
   }
+
   .footer {
     display: grid;
     grid-template-columns: repeat(2,7fr);
-    padding: 2em 1em 0 2em;
+    padding: 2em 0 0 2em;
   }
   /* .footer h3 {
     margin: 1em;
@@ -505,6 +506,21 @@ input[type="search"]:focus {
     margin: 0.5em;
     width: 15em;
   }
+  .resources-card{
+    margin-left: -2em;
+  }
+  .company{
+    margin-left: -2em;
+  }
+  .contact-card{
+    padding: 0;
+  }
+  .contact-card > h3{    
+    margin-left: -2em;
+  }
+  .contact-card > ul{
+    margin-left: -3.5em;
+  }
   .copyright h3 {
     font-weight: 500;
   }
@@ -512,12 +528,12 @@ input[type="search"]:focus {
 /* screen big then 400 */
 @media screen and (min-width: 400px) and (max-width: 700px) {
   .floating-btn {
-    top: 45em;
+    top: 42em;
     left: 20em;
   }
   .navbar {
     height: 6em;
-    width: 30em;
+    width: 25.7em;
   }
   .navbar > svg {
     margin: 2em;

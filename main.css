@@ -361,8 +361,8 @@ input[type="search"]:focus {
 /* screen les then 400 */
 @media screen and (min-width: 300px) and (max-width: 400px) {
   .floating-btn {
-    top: 40em;
-    left: 19em;
+    top: 50em;
+    left: 18em;
   }
   .navbar {
     height: 6em;
@@ -512,8 +512,8 @@ input[type="search"]:focus {
 /* screen big then 400 */
 @media screen and (min-width: 400px) and (max-width: 700px) {
   .floating-btn {
-    top: 40em;
-    left: 19em;
+    top: 45em;
+    left: 20em;
   }
   .navbar {
     height: 6em;
